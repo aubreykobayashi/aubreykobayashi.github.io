@@ -30,10 +30,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  aubreykobayashi
 
 # Build settings
-remote_theme: poole/hyde
+remote_theme: poole/hyde@v2.1.0
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
+  - jekyll-remote-remote_theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
