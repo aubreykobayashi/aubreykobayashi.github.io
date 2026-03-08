@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+[Current Curriculum Vitae](https://aubreykobayashi.github.io/) | [Professional Philosophy](https://aubreykobayashi.github.io/philosophy/) | [Projects](https://aubreykobayashi.github.io/projects/) | [Professional Development](https://aubreykobayashi.github.io/professional-development/) | [Graphic Design](https://aubreykobayashi.github.io/graphic-design/) | [About me](https://aubreykobayashi.github.io/about/)
+
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
