@@ -6,122 +6,73 @@ layout: default
 ---
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
 [Current Curriculum Vitae](https://aubreykobayashi.github.io/) | [Professional Philosophy](https://aubreykobayashi.github.io/philosophy/) | [Projects](https://aubreykobayashi.github.io/projects/) | [Professional Development](https://aubreykobayashi.github.io/professional-development/) | [Graphic Design](https://aubreykobayashi.github.io/graphic-design/) | [About me](https://aubreykobayashi.github.io/about/)
 
-There should be whitespace between paragraphs.
+# Aubrey Kobayashi - _Curriculum Vitae_
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Skilled Librarian with experience in digital collections practices and collaboration
 
-# Header 1
+**Summary of Qualifications**
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+*   A Master’s degree in Library and Information Science from the University of Pittsburgh
+*   Extensive experience delivering one-on-one instruction in information literacy, electronic library resources and online searching techniques
+*   Years of progressively responsible experience delivering the highest quality academic library services
+*   Open Educational Resources collaboration and faculty support 
+*   Website creation on SpringShare LibGuides and Collection Builder sites 
 
-## Header 2
+## EXPERIENCE
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+**Community College of Allegheny County - Allegheny,** CCAC Libraries — _Reference Librarian_
+2025 - Current
+*   Provides reference and research assistance to students and other patrons and related documentation such as: 
+*       Narrowing a research topic
+*       Finding books, ebooks, movies, archives and primary sources at CCAC and other institutions
+*       Technical help with ebook reader applications and graphic design applications required for coursework, scanning, and printing
+*       Accessing scholarly journal articles
+*       Searching for news or current issues
+*   Performs instruction around library resources and research and information literacy  
+*   Coordinates with Information Technology Services to troubleshoot technical issues
+*   Create and maintain LibGuides highlighting library resources including any needed media creation while coordinating curation guidelines
+*   Produces documentation, assessment, and decisionmaking concerning collection development
+*   Outreach support for OER projects and reference assistance
+*   Performs circulation duties when clerk is not present such as checking out/checking in materials and working with ILL
 
-### Header 3
+**University of Missouri - Kansas City,** Special Collections and Archives — _Digital Projects Fellow_
+2022 - 2024
+*   Conducted literature review and researched report on digital collections practices intended to build workflow to edit legacy metadata records centered around diversity and equity efforts alongside performing outreach to institutions engaged in similar projects
+*   Communications and outreach support for audit process, blog posts and internal messaging
+*   Reported on recommendations for digital collection content selection and curation criteria in addition to considerations for platforms and tools 
+*   Edited legacy metadata records with recommendations as guide
+*   Routinely collaborated with the Digital Projects team and IT including but not limited to assisting with website designs post migration
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+**University of Pittsburgh,** Hillman Library, Public Services — _Library Specialist_
+2021 - 2022
+*   Identified, pulled and packed materials to send off-site while tracing missing items and identified damaged materials
+*   Shelf read and corrected call number accuracies
+*   Provided reference assistance to patrons
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## EDUCATION
 
-#### Header 4
+**University of Pittsburgh,** Pittsburgh, PA — _Master of Library & Information Science_
+Coursework predominantly in libraries and digital projects.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+**University of Florida,** Gainesville, FL — _Bachelor of Sciences in Telecommunications_
 
-##### Header 5
+### Technologies and Other Proficiencies 
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+Working knowledge of Python, HTML, CSS, Javascript, Ruby
 
-###### Header 6
+LibGuides, Work Flows(Sirsi Dynix), Ebsco One Search and Collection Manager
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+Experience with Islandora, Collection Builder, HubSpot, and ArchiveSpace
 
-### There's a horizontal rule below this.
+Metadata schemas including MARC, Dublin Core, MODS, DACS, and XML
 
-* * *
+Batch data manipulation through Open Refine and Python
 
-### Here is an unordered list:
+Subject analysis and assignment of Controlled headings
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+Proficient in Microsoft 365, Adobe Photoshop and Indesign, Procreate
 
-### And an ordered list:
+Working Knowledge of Japanese, Spanish, and German
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
